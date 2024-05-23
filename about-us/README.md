@@ -1,2 +1,2 @@
-OPENGIS.ch Company mini presentation
-====================================
+OPENGIS.ch Company presentations
+================================
